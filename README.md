@@ -3,7 +3,7 @@
 ## Frameworks and Technology Used: SwiftCam, AVFoundation, XCode, Swift ##
 Zoom and Image Translation using joysticks
 
-## Features ##: 
+## Features ## 
 
 Unlimited zoom, realtime simultaneous panning and zoom
 
