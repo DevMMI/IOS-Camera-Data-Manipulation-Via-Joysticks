@@ -1,5 +1,5 @@
-## iOS-Camera-Image-Manipulation ##
-# Frameworks Used: SwiftCam, AVFoundation #
+# iOS-Camera-Image-Manipulation #
+# Frameworks and Technology Used: SwiftCam, AVFoundation, XCode, Swift #
 Zoom and Image Translation using joysticks
 
 # Features #: 
